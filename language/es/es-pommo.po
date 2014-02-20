@@ -3953,12 +3953,12 @@ msgstr "Confirmar Accion"
 # File: aardvark-development/admin/setup/setup_fields.php, line: 71
 #, php-format
 msgid "Currently, %1$s subscribers have a non empty value for %2$s. All Subscriber data relating to this field will be lost."
-msgstr ""
+msgstr "Actualmente, %1$s Suscriptores no tienen un valor vacio para %2$s. Se perderán todos los datos de suscriptor en esa área. "
 
 #
 # File: aardvark-development/admin/setup/setup_configure.php, line: 35
 msgid "Throttle Settings"
-msgstr ""
+msgstr "Configuración del acelerador"
 
 #
 # File: aardvark-development/admin/setup/setup_configure.php, line: 36
@@ -3968,7 +3968,7 @@ msgstr "SMTP Configuración"
 #
 # File: aardvark-development/admin/subscribers/ajax/group.rpc.php, line: 136
 msgid "At least 1 \"and\" rule must exist before an \"or\" rule takes effect."
-msgstr ""
+msgstr "Al menos 1 \"and\" regla debe existir antes de una \"or\"  regla para que haga efecto"
 
 #
 # File: aardvark-development/admin/subscribers/ajax/group.rpc.php, line: 153
@@ -3995,7 +3995,7 @@ msgstr "%s esta dado de baja. Para añadir este suscriptor de todas formas..., m
 #
 # File: aardvark-development/admin/subscribers/ajax/manage.rpc.php, line: 71
 msgid "Invalid or missing information."
-msgstr ""
+msgstr "Información invalida o faltante"
 
 #
 # File: aardvark-development/admin/subscribers/ajax/manage.rpc.php, line: 84
@@ -4006,13 +4006,13 @@ msgstr "Suscriptor %s añadido !"
 #
 # File: aardvark-development/admin/subscribers/ajax/manage.rpc.php, line: 87
 msgid "Subscriber has been flagged for update due to invalid or missing information."
-msgstr ""
+msgstr "El suscriptor ha sido resaltado para ser actualizado por información invalida o faltante."
 
 #
 # File: aardvark-development/admin/subscribers/ajax/manage.rpc.php, line: 119
 #, php-format
 msgid "You have removed %s subscribers!"
-msgstr ""
+msgstr "Has removido %s subscriptores!"
 
 #
 # File: aardvark-development/admin/subscribers/ajax/manage.rpc.php, line: 126
@@ -4039,13 +4039,13 @@ msgstr "Suscriptor Actualizado"
 # File: aardvark-development/admin/subscribers/subscribers_groups.php, line: 42
 #, php-format
 msgid "Group name (%s) already exists"
-msgstr ""
+msgstr "El grupo (%s) ya existe"
 
 #
 # File: aardvark-development/admin/subscribers/subscribers_groups.php, line: 66
 #, php-format
 msgid "%1$s filters belong this group . Are you sure you want to remove %2$s?"
-msgstr ""
+msgstr "%1$s filtrados pertenecen a este grupo . esta seguro de remover %2$s?"
 
 #
 # File: aardvark-development/admin/subscribers/subscribers_groups.php, line: 72
@@ -4062,55 +4062,55 @@ msgstr "%s eliminado."
 # File: aardvark-development/admin/subscribers/import_txt.php, line: 64
 # File: aardvark-development/admin/subscribers/import_csv2.php, line: 83
 msgid "Complete!"
-msgstr ""
+msgstr "Completado!"
 
 #
 # File: aardvark-development/admin/subscribers/import_csv2.php, line: 82
 #, php-format
 msgid "%s subscribers imported! Of these, %s were flagged to update their records."
-msgstr ""
+msgstr "%s suscriptores importados! de estos, %s fueron resaltados para ser actualizados."
 
 #
 # File: aardvark-development/admin/subscribers/import_csv2.php, line: 82
 #, php-format
 msgid "%s duplicates encountered."
-msgstr ""
+msgstr "%s encontrados duplicados."
 
 #
 # File: aardvark-development/admin/subscribers/groups_edit.php, line: 86
 msgid "INCLUDE"
-msgstr ""
+msgstr "INCLUIR"
 
 #
 # File: aardvark-development/admin/mailings/ajax/history.rpc.php, line: 53
 #, php-format
 msgid "Displaying notices for mailing %s"
-msgstr ""
+msgstr "Mostrar eventos por correo %s"
 
 #
 # File: aardvark-development/admin/mailings/ajax/status_poll.php, line: 64
 msgid "Stopped"
-msgstr ""
+msgstr "Parado"
 
 #
 # File: aardvark-development/admin/mailings/ajax/status_poll.php, line: 65
 msgid "Frozen"
-msgstr ""
+msgstr "Congelado"
 
 #
 # File: aardvark-development/admin/mailings/ajax/history.list.php, line: 120
 msgid "Complete"
-msgstr ""
+msgstr "Completo"
 
 #
 # File: aardvark-development/admin/mailings/ajax/history.list.php, line: 124
 msgid "Cancelled"
-msgstr ""
+msgstr "Cancelado"
 
 #
 # File: aardvark-development/admin/mailings/ajax/history.list.php, line: 135
 msgid "Mails/Hour"
-msgstr ""
+msgstr "Correos/Hora"
 
 #
 # File: aardvark-development/admin/mailings/mailing/templates.php, line: 57
@@ -4125,7 +4125,7 @@ msgstr "Plantilla Eliminada"
 # File: aardvark-development/admin/mailings/mailings_start.php, line: 38
 #, php-format
 msgid "A Mailing is currently processing. Visit the %sStatus%s page to check its progress."
-msgstr ""
+msgstr "Un envio de correo esta en proceso. Visita la pagina de %sStatus%s para ver su progreso "
 
 #
 # File: aardvark-development/admin/mailings/mailing/preview.php, line: 73
@@ -4140,42 +4140,42 @@ msgstr "No se puede enviar ningún Mailing a 0 suscriptrores !"
 #
 # File: aardvark-development/admin/mailings/mailing/setup.php, line: 99
 msgid "Invalid Character Set"
-msgstr ""
+msgstr "Caracteres invalidos"
 
 #
 # File: aardvark-development/admin/mailings/mailing/setup.php, line: 101
 msgid "Invalid Input"
-msgstr ""
+msgstr "Ingreso invalido"
 
 #
 # File: aardvark-development/admin/mailings/mailing/ajax.addtemplate.php, line: 67
 #, php-format
 msgid "Template %s saved."
-msgstr ""
+msgstr "PLantailla %s guardada."
 
 #
 # File: aardvark-development/admin/mailings/mailing/ajax.mailingtest.php, line: 79
 # File: aardvark-development/admin/mailings/mailings_start.php, line: 54
 msgid "Test Mailing"
-msgstr ""
+msgstr "Pruebas de COrreo"
 
 #
 # File: aardvark-development/admin/mailings/mailing/ajax.mailingtest.php, line: 107
 msgid "A mailing is currently taking place. Please try again later."
-msgstr ""
+msgstr "Envios de correo realizandose en este momento. Intente de nuevo despues."
 
 #
 # File: aardvark-development/admin/mailings/mailing/ajax.mailingtest.php, line: 118
 # File: aardvark-development/admin/mailings/mailings_start.php, line: 41
 #, php-format
 msgid "%sDemonstration Mode%s is on -- no Emails will actually be sent. This is good for testing settings."
-msgstr ""
+msgstr "%sDemonstration Mode%s iniciado -- No se enviaran correos. Esto es ideal para realizar pruebas."
 
 #
 # File: aardvark-development/admin/mailings/mailings_send4.php, line: 81
 #, php-format
 msgid "Started Mailing MTA. Spawn #%s."
-msgstr ""
+msgstr "MTA Iniciado y envido correo, Esparciendose #%s."
 
 #
 # File: aardvark-development/admin/mailings/mailings_start.php, line: 55
@@ -4186,7 +4186,7 @@ msgstr "Guardar Plantilla"
 # File: aardvark-development/admin/admin.php, line: 43
 #, php-format
 msgid "Powerful mailing list software for %s"
-msgstr ""
+msgstr "Poderoso software de listas de correo para %s"
 
 #
 # File: aardvark-development/admin/admin.php, line: 47
@@ -4201,12 +4201,12 @@ msgstr "Fallo al acceder. Intentalo de nuevo."
 #
 # File: aardvark-development/index.php, line: 102
 msgid "Captcha did not match. Try again."
-msgstr ""
+msgstr "Captcha invalid. Intente de nuevo"
 
 #
 # File: aardvark-development/install/install.php, line: 42
 msgid "poMMo is already installed."
-msgstr ""
+msgstr "poMMo ya esta instalado."
 
 #
 # File: aardvark-development/install/install.php, line: 67
@@ -4232,19 +4232,19 @@ msgstr "Contraseña:"
 # File: aardvark-development/install/upgrade.php, line: 42
 #, php-format
 msgid "poMMo does not appear to be installed! Please %s INSTALL %s before attempting an upgrade."
-msgstr ""
+msgstr "poMMo no aparece isntalado! Por favor %s INSTALL %s despues de intentar la actualización"
 
 #
 # File: aardvark-development/install/upgrade.php, line: 56
 #, php-format
 msgid "poMMo appears to be up to date. If you want to force an upgrade, %s click here %s"
-msgstr ""
+msgstr "ppMMo parece estar actualizado. Si deseas una actualización forzada haz %s click here %s  "
 
 #
 # File: aardvark-development/install/upgrade.php, line: 69
 #, php-format
 msgid "To upgrade poMMo, %s click here %s"
-msgstr ""
+msgstr "Para actualizar poMMo %s click here %s"
 
 #
 # File: aardvark-development/install/upgrade.php, line: 80
